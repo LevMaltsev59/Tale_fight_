@@ -243,3 +243,4 @@ if __name__ == '__main__':
         if SN == ("Н"):
             if Krus <= False and Noel <= False and Seazy <= False:
                 exit(0)
+
